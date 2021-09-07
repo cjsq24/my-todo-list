@@ -1,0 +1,9 @@
+.icon {
+   font-size: 16px;
+   font-weight: bold;
+   color: white
+}
+
+.completed {
+   background-color: #CDFFDE;
+}
